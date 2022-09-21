@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-I'm a web developer from India. I'm proficient in HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, PHP and MySQL. I'm also familiar with Java, C++, and C.
+I'm a web developer 👩‍💻 from India. I'm proficient in HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, PHP and MySQL. I'm also familiar with Java, C++, and C.
 
-I'm have worked on a few projects, which you can find on my [GitHub](https://github.com/gamentionkray) profile.
+I have my portfolio website, which you can find [here](https://gamentionkray.github.io/).
 
-I've created a few websites and landing pages for startups and small businesses.
+I'm have worked on a few projects, which you can find on my github profile.
 
-I'm currently learning Spring Boot while working with Infosys.
+I've created a few websites and landing pages 📃 for startups and small businesses.
+
+I'm currently learning 📖 Spring Boot while working with Infosys.
 
 <!--
 **gamentionkray/gamentionkray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
